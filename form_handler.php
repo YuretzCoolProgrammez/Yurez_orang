@@ -73,8 +73,8 @@ if ($errors) {
 
 // Сохранение в базу данных.
 
-$user = 'u47569';
-$pass = '3312824';
+$user = 'u47636';
+$pass = '6593131';
 $db = new PDO('mysql:host=localhost;dbname=u47569', $user, $pass, array(PDO::ATTR_PERSISTENT => true));
 
 // Подготовленный запрос. Не именованные метки.
